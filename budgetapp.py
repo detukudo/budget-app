@@ -6,7 +6,7 @@ class Budget:
     Balance: int. The balance of the budget
     
     METHODS:
-    Balance: Gives you the current balance of the budget
+    Status: Gives you the current balance of the budget
     Deposit: Enables you deposit to the budget
     Withdraw: Enables you withdraw from the budget
     Transfer: Enables you transfer from one budget to another

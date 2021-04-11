@@ -1,6 +1,8 @@
 from budgetapp import Budget
 from budgetapp import food, clothing, entertainment
 
+"""This is the frontend of the budget app for users to interact with"""
+
 print("Welcome to your budget app")
 print('Here are the budget types:')
 print('1. Food')
